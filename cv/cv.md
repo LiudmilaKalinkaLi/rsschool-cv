@@ -23,7 +23,7 @@ Graduation Date: July, 2024
 City Counselling Inc. - Toronto, ON  
 September, 2023 – June, 2024  
 - City Council Web site.
-- React.ja, Node.js, Web2.0
+- React.js, Node.js, Web2.0
 
 
 ## **Certifications**
