@@ -1,1 +1,1 @@
-https://github.com/LiudmilaKalinkaLi/rsschool-cv/cv
+https://liudmilakalinkali.github.io/rsschool-cv/cv
