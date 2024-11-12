@@ -1,1 +1,2 @@
-https://liudmilakalinkali.github.io/rsschool-cv/cv
+# __[rsschool-cv](https://liudmilakalinkali.github.io/rsschool-cv/)__
+https://liudmilakalinkali.github.io/rsschool-cv
