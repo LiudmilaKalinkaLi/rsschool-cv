@@ -1,0 +1,44 @@
+p.p2 {
+  margin: 0.0px 0.0px 12.0px 0.0px;
+  font: 12.0px Times;
+  -webkit-text-stroke: #000000;
+}
+
+li.li4 {
+  margin: 0.0px 0.0px 0.0px 0.0px;
+  font: 12.0px Times;
+  -webkit-text-stroke: #000000;
+}
+
+span.s1 {
+  font-kerning: none;
+}
+
+span.s2 {
+  font: 12.0px Times;
+  text-decoration: underline;
+  font-kerning: none;
+  color: #0000e9;
+  -webkit-text-stroke: 0px #0000e9;
+}
+
+span.s3 {
+  -webkit-text-stroke: 0px #000000;
+}
+
+ul.ul1 {
+  list-style-type: disc;
+}
+
+h1 {
+  margin: 0.0px 0.0px 16.1px 0.0px;
+  font: 24.0px Times;
+  color: red;
+  -webkit-text-stroke: #000000;
+}
+
+h2 {
+  margin: 0.0px 0.0px 14.9px 0.0px;
+  font: 18.0px Times;
+  -webkit-text-stroke: #000000;
+}
